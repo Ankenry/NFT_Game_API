@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 1
+    },
+    "auditLog": "logs\\.f28b89255d382f2bbc26dc36b9636e6ea9545fa1-audit.json",
+    "files": [
+        {
+            "date": 1711464269642,
+            "name": "logs\\NFT_log_2024_03_26.log",
+            "hash": "0880546e52782711609f33e9c1d77904f432f224ccc3624086a60d29ff045389"
+        }
+    ],
+    "hashType": "sha256"
+}

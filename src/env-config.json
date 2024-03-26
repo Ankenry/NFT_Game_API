@@ -1,0 +1,27 @@
+{
+    "port": 3300,
+    "polygonNetwork": {
+      "rpc": "https://rpc-mumbai.maticvigil.com",
+      "test": "https://rpc-mumbai.maticvigil.com",
+      "main": "#",
+      "gasLimit": 21000,
+      "gasPrice": 1,
+      "gas": 2300000
+    },
+    "oasyNetwork": {
+      "rpc": "https://rpc.testnet.verse.gesoten.com",
+      "test": "https://explorer.testnet.verse.gesoten.com",
+      "main": "#",
+      "gasLimit": 3000000,
+      "gasPrice": 1,
+      "gas": 2300000
+    },
+    "goerli": {
+      "rpc": "https://rpc.ankr.com/eth_goerli",
+      "test": "https://explorer.testnet.verse.gesoten.com",
+      "main": "#",
+      "gasLimit": 21000,
+      "gasPrice": 1,
+      "gas": 2300000
+    }
+  }
